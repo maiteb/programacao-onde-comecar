@@ -134,19 +134,25 @@ Exemplos:
 
 ## Python?
 
-Curso em português completo e de grátis: [Python para zumbis](https://www.pycursos.com/python-para-zumbis/)
+Curso em português completo e de grátis: 
+
+[Python para zumbis](https://www.pycursos.com/python-para-zumbis/)
 
 ----
 
 ## Ruby?
 
-Curso básico bem básico, mas em inglês: [Try Ruby](http://tryruby.org)
+Curso básico bem básico, mas em inglês: 
+
+[Try Ruby](http://tryruby.org)
 
 ----
 
 ## Javascript?
 
-<< adicionar alguma coisa aqui >>
+Um caminho de aprendizado em frontend, com Javascript incluso (em inglês):
+
+[FreeCodeCamp](https://www.freecodecamp.org/)
 
 ---
 
@@ -156,27 +162,19 @@ Curso básico bem básico, mas em inglês: [Try Ruby](http://tryruby.org)
 
 ----
 
-## Rails Girls
-
-<< adicionar imagem >>
+<img src="http://railsgirls.com/images/railsgirls-sq.png" alt="Rails Girls" style="width: 300px;"/>
 
 ----
 
-## PyLadies
-
-<< adicionar imagem >>
+<img src="http://www.pyladies.com/assets/images/pyladies_logo.png" alt="PyLadies" style="width: 300px;"/>
 
 ----
 
-## DjangoGirls
-
-<< adicionar imagem >>
+<img src="https://raw.githubusercontent.com/olasitarska/djangogirls/gh-pages/resources/graphics/logo_square.png" alt="Django Girls" style="width: 300px;"/>
 
 ----
 
-## PHPForWomen
-
-<< adicionar imagem >>
+<img src="https://avatars0.githubusercontent.com/u/28883362?s=280&v=4" alt="JSLadies" style="width: 300px;"/>
 
 ---
 
